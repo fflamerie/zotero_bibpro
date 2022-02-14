@@ -14,19 +14,19 @@ Matériel de la formation ["Zotero pour les bibliothécaires"](https://sygefor.r
 
 Support de cours complet :
 
-* [COURS à consulter en ligne en html](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/bibpro_COURS.md) 
-* [COURS à télécharger en PDF](https://github.com/fflamerie/bibpro/blob/master/docs/bibpro.pdf)
+* [COURS à consulter en ligne en html](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_COURS.md) 
+* [COURS à télécharger en PDF](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_COURS.pdf)
 
 ## Exercices
 ### Exercice 1 : ajouter des documents dans sa bibliothèque Zotero
-  * [fichier .RDF à importer](https://github.com/fflamerie/bibpro/blob/master/docs/bibpro.rdf) 
-  * [liste de DOI](https://github.com/fflamerie/bibpro/blob/master/docs/test_import_doi.txt)
-  * [fichiers .PDF à importer](https://github.com/fflamerie/bibpro/blob/master/docs/test_impot_PDF)
+  * [fichier .RDF à importer](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_import.rdf) 
+  * [liste de DOI](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_import-DOI.txt)
+  * [fichiers .PDF à importer](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/import-PDF)
  
 ### Exercice 2 : citer avec Zotero
 
-* [fichier .DOC à modifier](https://github.com/fflamerie/bibpro/blob/master/docs/zotero_TP_citer_EXERCICE.doc) 
-* [fichier .PDF modèle](https://github.com/fflamerie/bibpro/blob/master/docs/zotero_TP_citer_MODELE.pdf)
+* [fichier .DOC à modifier](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_TP_citer_EXERCICE.doc) 
+* [fichier .PDF modèle](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_TP_citer_MODELE.pdf)
 
 
 ## Programme de la formation publié sur le site de l'Urfist

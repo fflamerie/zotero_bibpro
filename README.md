@@ -25,8 +25,8 @@ Support de cours complet :
  
 ### Exercice 2 : citer avec Zotero
 
-* [fichier .DOC à modifier](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_TP_citer_EXERCICE.doc) 
-* [fichier .PDF modèle](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_TP_citer_MODELE.pdf)
+* [fichier .DOC à modifier](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_TP_citer_EXERCICE.doc) 
+* [fichier .PDF modèle](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_TP_citer_MODELE.pdf)
 
 
 ## Programme de la formation publié sur le site de l'Urfist

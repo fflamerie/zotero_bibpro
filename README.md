@@ -19,7 +19,7 @@ Support de cours complet :
 
 ## Exercices
 ### Exercice 1 : ajouter des documents dans sa bibliothèque Zotero
-  * [fichier .RDF à importer](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_import.rdf) 
+  * [fichier .RDF à importer](https://raw.githubusercontent.com/fflamerie/zotero_bibpro/main/docs/zotero_bibpro_import.rdf) 
   * [liste de DOI](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_import-DOI.txt)
   * [fichiers .PDF à importer](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/import-PDF)
  

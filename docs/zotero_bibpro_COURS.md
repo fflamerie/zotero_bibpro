@@ -1,5 +1,5 @@
 
-# Zotero pour les bibliothécaires : support cours
+# Zotero pour les bibliothécaires : support de cours
 
 ## Objectifs
 
@@ -240,7 +240,7 @@ Ajoutez des documents en utilisant l'une des méthodes suivantes.
 
 * **Baguette magique** : utilisez [cette liste de DOI](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_import-DOI.txt).
 * **Saisie manuelle** : un rapport interne, une présentation ou tout autre document que vous ne trouvez pas en ligne.
-* **Import de fichier** : utilisez [ce fichier RDF](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_import.rdf).
+* **Import de fichier** : utilisez [ce fichier RDF](https://raw.githubusercontent.com/fflamerie/zotero_bibpro/main/docs/zotero_bibpro_import.rdf).
 * **A partir d'un PDF** : utilisez [les fichiers de ce dossier](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/import-PDF).
 
 ### Vérifier et mettre à jour les documents que vous avez enregistrés

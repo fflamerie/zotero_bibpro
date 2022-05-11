@@ -12,12 +12,10 @@
 
 <!-- MDTOC maxdepth:1 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:0 -->
 
-- [Objectifs](#objectifs)   
-- [Sommaire](#sommaire)   
 - [1. Introduction](#1-introduction)   
 - [2. Installer et configurer Zotero](#2-installer-et-configurer-zotero)   
-- [3. Constituer sa bibliothèque Zotero en important des références bibliographiques depuis diverses sources et en leur associant des fichiers joints](#3-constituer-sa-bibliothèque-zotero-en-important-des-références-bibliographiques-depuis-diverses-sources-et-en-leur-associant-des-fichiers-joints)   
-- [4. Organiser sa bibliothèque Zotero avec les collections, marqueurs, recherches enregistrées, etc.](#4-organiser-sa-bibliothèque-zotero-avec-les-collections-marqueurs-recherches-enregistrées-etc)   
+- [3. Constituer sa bibliothèque Zotero étape 1, ajouter des documents et des fichiers](#3-constituer-sa-bibliothèque-zotero-étape-1-ajouter-des-documents-et-des-fichiers)   
+- [4. Constituer sa bibliothèque Zotero étape 2, organiser le contenu avec les collections, marqueurs, recherches enregistrées, etc.](#4-constituer-sa-bibliothèque-zotero-étape-2-organiser-le-contenu-avec-les-collections-marqueurs-recherches-enregistrées-etc)   
 - [5. Identifier et installer dans Zotero les styles bibliographiques de référence de son domaine](#5-identifier-et-installer-dans-zotero-les-styles-bibliographiques-de-référence-de-son-domaine)   
 - [6. Exploiter sa bibliothèque Zotero pour la rédaction bibliographique](#6-exploiter-sa-bibliothèque-zotero-pour-la-rédaction-bibliographique)   
 - [7.  De la bibliothèque Zotero à la bibliographie en ligne](#7-de-la-bibliothèque-zotero-à-la-bibliographie-en-ligne)   
@@ -153,7 +151,7 @@ Dans cette rubrique, devrait s'afficher la bibliothèque de groupe que vous vene
 ![zotero_bib_groupe](img/zotero_bib_groupe.png)
 
 
-## 3. Constituer sa bibliothèque Zotero en important des références bibliographiques depuis diverses sources et en leur associant des fichiers joints
+## 3. Constituer sa bibliothèque Zotero étape 1, ajouter des documents et des fichiers
 
 ![zotero_collect](img/zotero_collect.png)
 
@@ -269,7 +267,7 @@ Faut-il pour chaque livre enregistrer les date, lieu et éditeur commerciaux ori
 
 ![zotero][zotero] [Documentation Zotero : Les types de documents et les champs associés dans Zotero > Champs citables non inclus dans Zotero](https://www.zotero.org/support/fr/kb/item_types_and_fields#champs_citables_non_inclus_dans_zotero)
 
-## 4. Organiser sa bibliothèque Zotero avec les collections, marqueurs, recherches enregistrées, etc.
+## 4. Constituer sa bibliothèque Zotero étape 2, organiser le contenu avec les collections, marqueurs, recherches enregistrées, etc.
 
 ![zotero_organize.png](img/zotero_organize.png)
 

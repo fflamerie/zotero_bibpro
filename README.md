@@ -1,6 +1,6 @@
 # Zotero pour les bibliothécaires
 
-Matériel de la formation ["Zotero pour les bibliothécaires"](https://sygefor.reseau-urfist.fr/#/training/9454/11076?from=true) à l'Urfist Bordeaux.
+Matériel de la formation ["Zotero pour les bibliothécaires"](https://sygefor.reseau-urfist.fr/#/training/9808/11657?from=true) à l'Urfist Bordeaux.
 
 ## Objectifs
 
@@ -35,18 +35,22 @@ Zotero est un logiciel de gestion bibliographique robuste et fiable, gratuit et 
 
 Il simplifie et automatise toutes les étapes de la bibliographie, de l'import des références bibliographiques à leur citation dans un document rédigé, en générant tant les appels de citation ou les notes de bas de page que la bibliographie selon un style bibliographique déterminé. Prenant en charge une large typologie documentaire, il permet de citer de façon adéquate et précise tous les types de document, des livres aux pages Web. Plus largement, il facilite la gestion des données bibliographiques en prenant en charge un grand nombre de formats d'import et d'export.
 
+Plus encore, la fonctionnalité de groupe de Zotero offre de multiples possibilités pour partager des bibliographies, du travail collaboratif privé à la diffusion ouverte d'une base bibliographique. 
+
 L’enjeu du stage est de permettre aux participants de maîtriser l'interface et les principales fonctionnalités de Zotero, ainsi que d'identifier les ressources mobilisables pour un usage plus avancé du logiciel (forum, documentation, modules complémentaires, etc.).
 
 A l'issue du stage, les participants pourront tant apporter assistance à leurs usagers utilisateurs de Zotero que développer un usage professionnel du logiciel.
 
-**Dans le cadre de la formation, le travail est effectué dans un environnement Windows. Zotero est compatible avec les navigateurs Chrome, Firefox et Edge.**
+
+*Dans le cadre de la formation, le travail est effectué dans un environnement Windows. Zotero est compatible avec les navigateurs Chrome, Firefox et Edge.*
 
 * Installer et configurer Zotero
-* Constituer sa bibliothèque Zotero : importer des références bibliographiques depuis diverses sources (bases de données en ligne, catalogues de bibliothèque, fichiers PDF, etc.) et leur associer des fichiers joints
-* Organiser sa bibliothèque Zotero : collections, marqueurs et recherches enregistrées
-* Exploiter sa bibliothèque Zotero : création de bibliographies dans différents formats, modules Zotero pour Word et LibreOffice, etc.
-* Exploiter sa bibliothèque Zotero : importer et exporter des données bibliographiques vers d'autres applications
-* Aller plus loin avec Zotero : utiliser le forum, la documentation, les modules complémentaires.
+* Constituer sa bibliothèque Zotero étape 1, ajouter des documents et des fichiers
+* Constituer sa bibliothèque Zotero étape 2, organiser le contenu avec les collections, marqueurs, recherches enregistrées, etc.
+* Identifier et installer dans Zotero les styles bibliographiques de référence de son domaine
+* Exploiter sa bibliothèque Zotero pour la rédaction bibliographique
+* De la bibliothèque Zotero à la bibliographie en ligne
+* Exploiter sa bibliothèque Zotero avec d'autres applications
 
 ***
 

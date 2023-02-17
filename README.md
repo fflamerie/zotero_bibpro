@@ -18,11 +18,18 @@ Support de cours complet :
 * [COURS à télécharger en PDF](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_COURS.pdf)
 
 ## Exercices
-### Exercice 1 : ajouter des documents dans sa bibliothèque Zotero
+### Exercice "Enregistrer des documents depuis les sites en ligne avec le connecteur Zotero"
+### Exercice "Autres méthodes pour ajouter des documents"
   * [fichier .RDF à importer](https://raw.githubusercontent.com/fflamerie/zotero_bibpro/main/docs/zotero_bibpro_import.rdf) 
   * [liste de DOI](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_import-DOI.txt)
   * [fichiers .PDF à importer](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/import-PDF)
- 
+
+### Exercice "Démarrer avec l'organisation" 
+### Exercice "Extraire les références de la bibliographie d'un document Word ou PDF"
+* [Fichier à utiliser avec Reference Extractor](https://github.com/fflamerie/zotero_bibpro/blob/main/docs/zotero_bibpro_ex_ref_extractor.docx)
+* [Fichier à utiliser avec Anystyle.io](https://github.com/fflamerie/zotero_bibpro/blob/main/docs/zotero_bibpro_ex_anystyle.docx)
+
+
 ### Exercice 2 : citer avec Zotero
 
 * [fichier .DOC à modifier](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_TP_citer_EXERCICE.doc) 

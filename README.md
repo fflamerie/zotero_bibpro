@@ -25,7 +25,7 @@ Support de cours complet :
 * Quiz 2 : les styles bibliographiques
 * Quiz 3 : les groupes Zotero
 
-🎯 [Texte des quiz](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_quiz.txt)
+🎯 [Texte des quiz](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_quiz.md)
 
 ### Exercice "Enregistrer des documents depuis les sites en ligne avec le connecteur Zotero"
 

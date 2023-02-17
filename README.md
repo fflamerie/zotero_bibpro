@@ -47,7 +47,7 @@ _Voir énoncé dans le support de cours_
 ### Exercice "Citer avec Zotero : les modules de traitement de texte"
 
 * [Fichier modèle à reproduire au format .PDF](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_TP_citer_MODELE.pdf)
-* [Fichier d'exercice à modificer au format .DOC](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_TP_citer_EXERCICE.doc) 
+* [Fichier d'exercice à modifier au format .DOC](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_TP_citer_EXERCICE.doc) 
 
 ### Exercice "Citer avec Zotero : autres méthodes"
 

@@ -21,27 +21,43 @@ Support de cours complet :
 ### Quiz
 3 quiz sont proposés à différents moments de la formation, par le biais du service Wooclap.
 
+* Quiz 1 :  que savez-vous de Zotero et quels outils bibliographiques utilisez-vous?
+* Quiz 2 : les styles bibliographiques
+* Quiz 3 : les groupes Zotero
+
 🎯 [Texte des quiz](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_quiz.txt)
 
 ### Exercice "Enregistrer des documents depuis les sites en ligne avec le connecteur Zotero"
+
+_Voir énoncé dans le support de cours_
+
 ### Exercice "Autres méthodes pour ajouter des documents"
   * [Fichier .RDF à importer](https://raw.githubusercontent.com/fflamerie/zotero_bibpro/main/docs/zotero_bibpro_import.rdf) 
   * [Liste de DOI à copier](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_import-DOI.txt)
   * [Fichiers .PDF à importer](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/import-PDF)
 
 ### Exercice "Démarrer avec l'organisation" 
+
+_Voir énoncé dans le support de cours_
+
 ### Exercice "Extraire les références de la bibliographie d'un document Word ou PDF"
 * [Fichier à utiliser avec Reference Extractor](https://github.com/fflamerie/zotero_bibpro/blob/main/docs/zotero_bibpro_ex_ref_extractor.docx)
 * [Fichier à utiliser avec Anystyle.io](https://github.com/fflamerie/zotero_bibpro/blob/main/docs/zotero_bibpro_ex_anystyle.docx)
 
+### Exercice "Citer avec Zotero : les modules de traitement de texte"
 
-### Exercice "Citer avec Zotero"
-
-* [Fichier modèle à reproduire au format .PDF modèle](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_TP_citer_MODELE.pdf)
+* [Fichier modèle à reproduire au format .PDF](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_TP_citer_MODELE.pdf)
 * [Fichier d'exercice à modificer au format .DOC](https://github.com/fflamerie/zotero_bibpro/blob/master/docs/zotero_bibpro_TP_citer_EXERCICE.doc) 
 
+### Exercice "Citer avec Zotero : autres méthodes"
 
+_Voir énoncé dans le support de cours_
 
+### Exercice en groupe "Quel cas d'usage dans votre contexte professionnel?"
+
+_Voir énoncé dans le support de cours_
+
+***
 ## Programme de la formation publié sur le site de l'Urfist
 
 Zotero est un logiciel de gestion bibliographique robuste et fiable, gratuit et libre.

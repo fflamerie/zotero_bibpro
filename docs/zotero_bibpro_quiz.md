@@ -27,7 +27,7 @@ Les bonnes réponses sont préfixées d'un `#` .
 * une extension à installer dans son navigateur internet et des modules pour les traitements de texte.
 
 
-### Zotero est un logiciel (une seule réponse possible:
+### Zotero est un logiciel (une seule réponse possible):
 
 * Payant et propriétaire.
 * `#` Gratuit et libre.
@@ -57,7 +57,7 @@ Les bonnes réponses sont préfixées d'un `#` .
 * `#` Groupe public à adhésion contrôlée (sur demande ou invitation)
 
 
-## Quels sont les rôles possibles dans un groupe?
+### Quels sont les rôles possibles dans un groupe Zotero?
 
 * `#` Member (membre)
 * Editor (éditeur)

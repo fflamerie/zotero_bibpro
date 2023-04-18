@@ -806,7 +806,7 @@ Billets du blog Zotero francophone
 
 ## 10. Quel cas d'usage dans votre contexte professionnel?
 
-Peut-être avez-vous déjà des idées d'usage de Zotero à développer dans votre contxte de travail.
+Peut-être avez-vous déjà des idées d'usage de Zotero à développer dans votre contexte de travail.
 
 Pendant **40 minutes**, par groupe, travaillez sur un projet que vous souhaiteriez mettre en oeuvre dans votre contexte professionnel, à l'échelle individuelle, de votre service, de votre établissement, etc.
 

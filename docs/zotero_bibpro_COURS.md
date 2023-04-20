@@ -19,7 +19,7 @@
 - [2. Installer et configurer Zotero](#2-installer-et-configurer-zotero)   
 - [3. Constituer sa bibliothèque Zotero étape 1, ajouter des documents et des fichiers](#3-constituer-sa-bibliothèque-zotero-étape-1-ajouter-des-documents-et-des-fichiers)   
 - [4. Constituer sa bibliothèque Zotero étape 2, organiser le contenu avec les collections, marqueurs, recherches enregistrées, etc.](#4-constituer-sa-bibliothèque-zotero-étape-2-organiser-le-contenu-avec-les-collections-marqueurs-recherches-enregistrées-etc)   
-- [5. Exploiter sa bibliothèque Zotero avec d'autres applications](#5-exploiter-sa-bibliothèque-zotero-avec-dautres-applications)   
+- [5. Exploiter sa bibliothèque Zotero avec d'autres applications](#5-exploiter-sa-bibliothèque-zotero-avec-dautres-applications)  
 - [6. Identifier et installer dans Zotero les styles bibliographiques de référence de son domaine](#6-identifier-et-installer-dans-zotero-les-styles-bibliographiques-de-référence-de-son-domaine)   
 - [7. Citer avec Zotero - intégration avec le traitement de texte et annotation](#7-citer-avec-zotero-intégration-avec-le-traitement-de-texte-et-annotation)   
 - [8. Citer avec Zotero - autres méthodes](#8-citer-avec-zotero-autres-méthodes)   
@@ -201,7 +201,7 @@ En naviguant sur les sites que vous utilisez habituellement pour vos recherches 
 
 Vous pouvez enregistrer des livres, de articles de revue, des thèses, ou encore des liens vers des pages web, des articles de presse ou de magazine, le tout est de tester l'enregistrement dans Zotero depuis les sites que vous consultez. Ajoutez des fichiers (pdf, jpg ou autres) si applicable.
 
-📚 Pour les livres, quelle source privilégierez-vous? Le Sudoc, le catalogue de la BnF, amazon, autre?
+📚 Pour les livres, quelle source privilégiez-vous? Le Sudoc, le catalogue de la BnF, amazon, autre?
 Exemple : rechercher le livre ayant pour titre "Les hommes de mes livres: Roland Barthes, José Corti, Pierre Fanlac" dans ces 3 sources.
 
 ### Toutes les méthodes d'ajout
@@ -251,7 +251,7 @@ Parfois, il n'y a pas de métadonnées disponibles encodées dans la page web qu
 
 Dans Zotero, vous pouvez créer un nouveau document en cliquant sur *Fichier > Nouveau document* ou sur le cercle vert avec un plus. Dans les deux cas, vous devrez choisir **le type de document** pour lequel vous souhaitez créer un document (par exemple, "Livre", "Rapport", etc.). Lorsque vous sélectionnez le type de document, un document vide apparaît. Vous pouvez alors remplir les champs en fonction du document que vous avez devant vous. Dans tous les cas, il est préférable d'être exhaustif et de donner le plus d'informations possible.
 
-#### Exercice "Autres méthodes pour ajouter des documents"
+### Exercice "Autres méthodes pour ajouter des documents"
 
 Nous prenons **10 minutes** pour cette activité.
 
@@ -671,7 +671,7 @@ Le style bibliographique utilisé est un style auteur-date, le style **ISO-690 (
 
 ### Ressources : Zotero et les traitements de texte
 
-[zotero][zotero] [Documentation Zotero : Créer des bibliographies](https://docs.zotero-fr.org/creating_bibliographies)
+![zotero][zotero] [Documentation Zotero : Créer des bibliographies](https://docs.zotero-fr.org/creating_bibliographies)
 
 ![zotero][zotero] [Documentation Zotero : Modules pour logiciel de traitement de texte](https://docs.zotero-fr.org/word_processor_integration)
 
@@ -749,7 +749,7 @@ Créez une bibliographie à partir des mêmes documents que ceux utilisés pour 
 * avec la **copie rapide** ou le **menu contextuel**,
 * en utilisant le style bibliographique **IEEE**.
 
-Constatez-vous des différences avec le résultat produit avec le module de traitement de texte? Pour cela, n'hésitez pas à changer le style bibliographique dans le document Word que nous avons créé.
+Constatez-vous des différences avec le résultat produit avec le module de traitement de texte? Pour vérifier cela, n'hésitez pas à changer le style bibliographique dans le document Word que nous avons créé, en le passant à IEEE.
 
 ## 9.  De la bibliothèque Zotero à la bibliographie en ligne
 
@@ -792,9 +792,9 @@ Le groupe Zotero permet ensuite de définir très précisément qui a le droit d
 
 ![zotero][zotero] [Documentation Zotero : Les groupes Zotero](https://docs.zotero-fr.org/groups)
 
-![zotero][zotero][Documentation Zotero : Synchronisation](https://docs.zotero-fr.org/sync)
+![zotero][zotero] [Documentation Zotero : Synchronisation](https://docs.zotero-fr.org/sync)
 
-![zotero][zotero][Documentation Zotero : Est-ce que la bibliothèque en ligne est identique à l’application de bureau Zotero ?](https://docs.zotero-fr.org/kb/web_vs_desktop/)
+![zotero][zotero] [Documentation Zotero : Est-ce que la bibliothèque en ligne est identique à l’application de bureau Zotero ?](https://docs.zotero-fr.org/kb/web_vs_desktop/)
 
 Billets du blog Zotero francophone
 

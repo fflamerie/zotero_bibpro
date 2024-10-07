@@ -1,6 +1,6 @@
 # Zotero pour les bibliothécaires
 
-Matériel de la formation ["Zotero pour les bibliothécaires"](https://sygefor.reseau-urfist.fr/#/training/9808/11657?from=true) à l'Urfist Bordeaux.
+Matériel de la formation ["Zotero pour les bibliothécaires"](https://sygefor.reseau-urfist.fr/#/training/9808/11657?from=true) à l'Urfist Bordeaux, formation en présentiel de 6h.
 
 ## Objectifs
 

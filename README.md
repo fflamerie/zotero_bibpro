@@ -2,6 +2,8 @@
 
 Matériel de la formation ["Zotero pour les bibliothécaires"](https://sygefor.reseau-urfist.fr/#/training/9808/11657?from=true) à l'Urfist Bordeaux, formation en présentiel de 6h.
 
+🚧 **2024-09 : ces documents ne sont plus mis à jour. Le support [de la version à distance de ce stage](https://github.com/fflamerie/zotero_bibpro_dist) est en revanche à jour et prend en compte les nouveautés introduites dans Zotero 7.**
+
 ## Objectifs
 
 * Créer et organiser une bibliothèque de références bibliographiques avec Zotero
